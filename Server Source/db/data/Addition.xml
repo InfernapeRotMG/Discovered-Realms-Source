@@ -1,0 +1,34 @@
+﻿<ExtData>
+
+
+  <Object ext="true" id="1234">
+    <Class>Equipment</Class>
+    <Item/>
+    <Texture>
+      <File>lofiObj2</File>
+      <Index>0x35</Index>
+    </Texture>
+    <SlotType>10</SlotType>
+    <Tier>2</Tier>
+    <Description>{equip.A_potion_that_permanently_increases_defense_power.}</Description>
+    <Sound>use_potion</Sound>
+    <SellPrice>5000</SellPrice>
+    <Consumable/>
+    <Potion/>
+    <BagType>5</BagType>
+    <Activate FameAmount="5000">AddFame</Activate>
+    <feedPower>150</feedPower>
+    <DisplayId>{equip.Potion_of_Defense}</DisplayId>
+  </Object>
+
+
+
+
+
+
+
+
+
+
+
+</ExtData>
